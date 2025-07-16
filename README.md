@@ -40,7 +40,7 @@ Always ready for the next challenge! 🚀
 ## 💼 Experience
 
 **Software Engineer Intern** | *YugaYatra Retail OPC Pvt. Ltd.*  
-Jul 2025 – Sep 2025  
+Jul 2025 – Sep 2025  ( Remote )
 - Built web/mobile apps using Cursor AI & Firebase Studio.  
 - Designed UI assets and worked with Amazon/Flipkart seller portals.  
 - Contributed to freelance projects on Upwork as part of the dev team.
