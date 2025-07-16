@@ -77,7 +77,8 @@ Built with HTML, CSS, JavaScript – fetches and displays real-time LeetCode sta
 - GenAI Enthusiast  
 - Tech Content  
 - Cybersecurity  
-- Community Collaboration  
+- Community Collaboration
+- Sports
 
 ---
 
