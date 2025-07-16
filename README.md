@@ -20,7 +20,7 @@ Always ready for the next challenge! 🚀
 
 **Bachelor of Technology in CSE**  
 *JSS Academy of Technical Education, Noida*  
-2022 – 2026 | CGPA: **8.37/10**
+2022 – 2026 | CGPA: **8.224/10**
 
 **Class 12th – Science**  
 *St. Michael’s Convent School, Gonda (UP)*  
