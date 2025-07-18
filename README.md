@@ -5,6 +5,8 @@ Welcome to my page!
 🎓 I'm a final-year B.Tech student in **Computer Science and Engineering with Specialization in Artificial Intelligence and Machine Learning** at **JSS Academy of Technical Education**, with a passion for Web Development, AI, and Cybersecurity.  
 💻 I'm a **MERN Stack Web Developer**, **Problem Solver**, and an **AI Project Builder** always exploring new tools and technologies.
 
+akhilesh.github.io : https://codepandaakhilesh.github.io/akhilesh.github.io/
+
 ---
 
 ## 🧠 About Me
