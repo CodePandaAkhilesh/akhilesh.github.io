@@ -49,6 +49,7 @@ Jul 2025 – Sep 2025  ( Remote )
 
 
 **Software Developer Intern** | *Sebzy Enterprises Pvt. Ltd.*
+
 Jul 2025 - Sep 2025 ( Remote )
 - Currently working on frontend development for web applications.
 - Collaborating with the tech team to build responsive user interfaces, improve UX.
