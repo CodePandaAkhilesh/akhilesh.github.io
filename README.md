@@ -47,6 +47,13 @@ Jul 2025 – Sep 2025  ( Remote )
 - Designed UI assets and worked with Amazon/Flipkart seller portals.  
 - Contributed to freelance projects on Upwork as part of the dev team.
 
+
+**Software Developer Intern** | *Sebzy Enterprises Pvt. Ltd.*
+Jul 2025 - Sep 2025 ( Remote )
+- Currently working on frontend development for web applications.
+- Collaborating with the tech team to build responsive user interfaces, improve UX.
+- Optimizing the performance using modern web technologies.
+
 ---
 
 ## 🚀 Projects
