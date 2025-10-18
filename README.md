@@ -59,14 +59,14 @@ Jul 2025 - Sep 2025 ( Remote )
 
 ## 🚀 Projects
 
+### 🔹 [Virtual Campus](https://virtual-campus-xqq5.onrender.com/)
+Built Virtual Campus, a MERN-based learning platform offering subject notes, daily DSA challenges, and 1:1 mentorship sessions between juniors and seniors, featuring a student earning model that rewards mentors while improving academic performance and placement readiness for learners.
+
+### 🔹 [LLM-Powered Intelligent Query Retrieval System](https://github.com/CodePandaAkhilesh/hackrx6.0-backend)
+Built an LLM-powered intelligent query–retrieval system that extracts clause-level answers from large documents (PDF/DOCX/emails) using Gemini + Pinecone, enabling scalable, explainable, and structured Q&A for domains like insurance, legal, HR, and compliance.
+
 ### 🔹 [WebCrafter-GenAI](https://github.com/CodePandaAkhilesh/WebCrafter-GenAI)
 AI-powered website generator using React and Gemini API. Live preview + code tabs from user prompts.
-
-### 🔹 [ReviseMate](https://github.com/CodePandaAkhilesh/AI-Agent)
-AI exam revision buddy built using React and Gemini API. Offers Q&A, MCQs, feedback, and smart tracking.
-
-### 🔹 [Leetcode Metrics App](https://github.com/CodePandaAkhilesh/Leetcode-Metrics-App)
-Built with HTML, CSS, JavaScript – fetches and displays real-time LeetCode stats with a clean UI.
 
 ---
 
