@@ -2,8 +2,7 @@
 
 Welcome to my page!
 
-🎓 I'm a final-year B.Tech student in **Computer Science and Engineering with Specialization in Artificial Intelligence and Machine Learning** at **JSS Academy of Technical Education**, with a passion for Web Development, AI, and Cybersecurity.  
-💻 I'm a **MERN Stack Web Developer**, **Problem Solver**, and an **AI Project Builder** always exploring new tools and technologies.
+🎓 I'm a final-year B.Tech student in **Computer Science and Engineering with Specialization in Artificial Intelligence and Machine Learning** at **JSS Academy of Technical Education**, with a passion for GenAI, Web Development, Problem Solver, and Cybersecurity.  
 
 akhilesh.github.io : https://codepandaakhilesh.github.io/akhilesh.github.io/
 
@@ -11,7 +10,7 @@ akhilesh.github.io : https://codepandaakhilesh.github.io/akhilesh.github.io/
 
 ## 🧠 About Me
 
-My career goal is to become a skilled software developer, but my mindset is always about curiosity and growth. I enjoy building innovative and helpful solutions using code and AI. Whether it's solving problems on LeetCode or building smart tools using React and Gemini API – I'm all in.
+My career goal is to become a skilled software developer, but my mindset is always about curiosity and growth. I enjoy building innovative and helpful solutions using code and AI. Whether it's solving problems on LeetCode or building smart tools using Web Dev and GENAI – I'm all in.
 
 I love to learn, create, and collaborate. I'm also working on growing my understanding of cybersecurity alongside my core CS education.  
 Always ready for the next challenge! 🚀
@@ -22,7 +21,7 @@ Always ready for the next challenge! 🚀
 
 **Bachelor of Technology in CSE**  
 *JSS Academy of Technical Education, Noida*  
-2022 – 2026 | CGPA: **8.224/10**
+2022 – 2026 | CGPA: **8.1/10**
 
 **Class 12th – Science**  
 *St. Michael’s Convent School, Gonda (UP)*  
@@ -32,28 +31,23 @@ Always ready for the next challenge! 🚀
 
 ## 🛠️ Tech Stack & Skills
 
-**Languages:** C++, C, Python, JavaScript, HTML, CSS  
-**Frameworks & Tools:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, REST API, Firebase Studio  
-**Developer Tools:** Git & GitHub, Postman, VS Code, IntelliJ IDEA, MongoDB Compass  
-**Competitive Coding:** 160+ LeetCode | 80+ CodingNinjas | 70+ GeeksforGeeks  
+**Languages:** C++, C, JavaScript, HTML, CSS  
+**Frameworks & Databases:** React.js, Node.js, Express.js, MongoDB, REST API, Tailwind CSS
+**Developer Tools:** Git, GitHub, VS Code, Postman  
+**Competitive Coding:** Solved 200+ LeetCode, 90+ CodingNinjas, 80+ GeeksforGeeks problems
 
 ---
 
 ## 💼 Experience
 
-**Software Engineer Intern** | *YugaYatra Retail OPC Pvt. Ltd.*  
-Jul 2025 – Sep 2025  ( Remote )
-- Built web/mobile apps using Cursor AI & Firebase Studio.  
-- Designed UI assets and worked with Amazon/Flipkart seller portals.  
-- Contributed to freelance projects on Upwork as part of the dev team.
-
 
 **Software Developer Intern** | *Sebzy Enterprises Pvt. Ltd.*
 
 Jul 2025 - Sep 2025 ( Remote )
-- Currently working on frontend development for web applications.
-- Collaborating with the tech team to build responsive user interfaces, improve UX.
-- Optimizing the performance using modern web technologies.
+- Built responsive UI components like navbar and tenant onboarding flow, improving mobile usability.
+- Fixed major bugs including bed logo errors, multi-bed selection, and empty room handling.
+- Added front/rear camera capture with OCR for Aadhaar, ensuring smooth tenant onboarding.
+- Stored Aadhaar photos with check-in/out records and designed the tenant history UI.
 
 ---
 
