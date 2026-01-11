@@ -46,7 +46,7 @@ Always ready for the next challenge! 🚀
 Jul 2025 - Sep 2025 ( Remote )
 - Built responsive UI components like navbar and tenant onboarding flow, improving mobile usability.
 - Fixed major bugs including bed logo errors, multi-bed selection, and empty room handling.
-- Added front/rear camera capture with OCR for Aadhaar, ensuring smooth tenant onboarding.
+- Added front/rear camera capture with OCR(using Gemini API) for Aadhaar, ensuring smooth tenant onboarding.
 - Stored Aadhaar photos with check-in/out records and designed the tenant history UI.
 
 ---
